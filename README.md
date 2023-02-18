@@ -1,4 +1,7 @@
 # DriverDrowsiness
+
+Dataset is not included in the project and repository, it can be found here: https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new 
+
 Introduction
 
 Problem
